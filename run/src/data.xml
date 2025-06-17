@@ -1,0 +1,538 @@
+<INVOICE>
+    <INVOICE_HEADER>
+        <BILL_TO>
+            <PAYMENT_TERMS>30</PAYMENT_TERMS>
+            <ATTN>Jane Doe</ATTN>
+            <ADDR1>Level 2, 39 Main St</ADDR1>
+            <ADDR2></ADDR2>
+            <COUNTRY></COUNTRY>
+            <CITY>Melbourne</CITY>
+            <STATE>VIC</STATE>
+            <ZIP>3000</ZIP>
+            <DISTRIBUTION_TYPE>MAIL</DISTRIBUTION_TYPE>
+            <BILL_TO>A Bank</BILL_TO>
+            <GROUP_ID>64907</GROUP_ID>
+            <ACCOUNT>
+                <Owner>Australian Payments Plus</Owner>
+                <Id>70893</Id>
+                <BillableBillingProfileId>64907</BillableBillingProfileId>
+                <ParentAccountId>1</ParentAccountId>
+                <Name>A Bank</Name>
+                <Status>ACTIVE</Status>
+                <Created>2025-03-13T18:50:00.442221+00:00</Created>
+                <Updated>2025-03-21T19:31:45.027525+00:00</Updated>
+                <UpdatedUserId>156080</UpdatedUserId>
+                <CreatedUserId>156080</CreatedUserId>
+                <AccountTypeId>1</AccountTypeId>
+                <InvoiceAtThisLevel>1</InvoiceAtThisLevel>fds
+                <RateHierarchy>0</RateHierarchy>
+                <ActivityTimeZone>0</ActivityTimeZone>
+                <AllowPricingInDifferentCurrency>0</AllowPricingInDifferentCurrency>
+                <BillableAccountId>70893</BillableAccountId>
+            </ACCOUNT>
+            <BILLING_PROFILE>
+                <DisablePDFGenerationOnInvoiceClose>0</DisablePDFGenerationOnInvoiceClose>
+                <SemiAnnualBillingMonth>June, December</SemiAnnualBillingMonth>
+                <IniBillingStartDate>2022-12-26</IniBillingStartDate>
+                <PaymentCreditAllocationMethod>Allocate To Invoice</PaymentCreditAllocationMethod>
+                <PaymentTermDays>30</PaymentTermDays>
+                <YearlyBillingMonth>December</YearlyBillingMonth>
+                <QuarterlyBillingMonth>March, June, September, December</QuarterlyBillingMonth>
+                <HostedPaymentPageExternalId>303eca00-9df2-b49b-e065-0094af4fbc68</HostedPaymentPageExternalId>
+                <CalendarType>4-5-4</CalendarType>
+                <CalendarClosingMonth>January</CalendarClosingMonth>
+                <CalendarClosingWeekday>Saturday</CalendarClosingWeekday>
+                <WeeklyBillingDate>Monday - Sunday</WeeklyBillingDate>
+                <PeriodCutoffDate>2016-12-31T23:59:59.000000+00:00</PeriodCutoffDate>
+                <AccountBalanceNumber>$3,006.66</AccountBalanceNumber>
+                <Attention>Jane Doe</Attention>
+                <Address1>Level 2, 39 Main St</Address1>
+                <City>Melbourne</City>
+                <State>VIC</State>
+                <Zip>3000</Zip>
+                <Email>jdoe@abank.com.au</Email>
+                <TimeZoneId>0</TimeZoneId>
+                <CurrencyCode>AUD</CurrencyCode>
+                <MonthlyBillingDate>31</MonthlyBillingDate>
+                <BillingMethod>MAIL</BillingMethod>
+                <BillingCycle>MONTHLY</BillingCycle>
+                <BillTo>A Bank</BillTo>
+                <InvoiceTemplateId>129</InvoiceTemplateId>
+                <ManualCloseFlag>1</ManualCloseFlag>
+                <Id>64907</Id>
+                <AccountId>70893</AccountId>
+                <Status>ACTIVE</Status>
+                <Created>2025-03-13T18:50:00.550847+00:00</Created>
+                <AccountBalance>$3,006.66</AccountBalance>
+                <StatementApprovalFlag>0</StatementApprovalFlag>
+                <InvoiceApprovalFlag>1</InvoiceApprovalFlag>
+                <BillingEntity>A Bank</BillingEntity>
+                <AchBankAcctType>Business Checking</AchBankAcctType>
+            </BILLING_PROFILE>
+        </BILL_TO>
+        <INVOICE>
+            <TotalAmountUnrounded>$2,733.315</TotalAmountUnrounded>
+            <TaxTotalAmountUnrounded>$273.332</TaxTotalAmountUnrounded>
+            <AvailableActions>reopen,regeneratePdf</AvailableActions>
+            <PendingActions>approve,approveNoEmail</PendingActions>
+            <LastAction>1377074</LastAction>
+            <TotalAmount>$2,733.32</TotalAmount>
+            <CreditAmount>$0.00</CreditAmount>
+            <PaymentAmount>$0.00</PaymentAmount>
+            <GrandTotalAmount>$3,006.66</GrandTotalAmount>
+            <TaxTotalAmount>$273.34</TaxTotalAmount>
+            <BuyRateAmount>$0.00</BuyRateAmount>
+            <DueAmount>$3,006.66</DueAmount>
+            <PendingTaxRecords>0</PendingTaxRecords>
+            <MassUpdateError>0</MassUpdateError>
+            <Id>504388</Id>
+            <Created>2025-03-21T01:47:41.287276+00:00</Created>
+            <Status>CLOSED</Status>
+            <PaymentStatus>NOT PAID</PaymentStatus>
+            <ClosedDate>2025-03-21T17:49:38.369152+00:00</ClosedDate>
+            <BillingProfileId>64907</BillingProfileId>
+            <ActivityStartDate>2024-02-28T00:00:00.000000+00:00</ActivityStartDate>
+            <ActivityEndDate>2024-02-29T23:59:59.000000+00:00</ActivityEndDate>
+            <FileDirectory>2025/03/21</FileDirectory>
+            <FileName>invoice_504388.pdf</FileName>
+            <DueDate>2025-04-20T00:00:00.000000+00:00</DueDate>
+            <BillingProfileDetailId>70267</BillingProfileDetailId>
+            <PdfCreatedDate>2025-03-21T20:11:10.970656+00:00</PdfCreatedDate>
+            <ManualCloseApprovedFlag>2</ManualCloseApprovedFlag>
+            <BillingCycleStartDate>2024-02-01T00:00:00.000000+00:00</BillingCycleStartDate>
+            <BillingCycleEndDate>2024-02-29T23:59:59.000000+00:00</BillingCycleEndDate>
+            <BillableFlag>1</BillableFlag>
+            <AgingInterval>Current</AgingInterval>
+            <Updated>2025-03-21T20:11:04.751429+00:00</Updated>
+            <UpdatedUserId>156080</UpdatedUserId>
+            <CreatedUserId>0</CreatedUserId>
+            <ApprovalStatus>NOT APPROVED</ApprovalStatus>
+        </INVOICE>
+        <BILL_FROM>
+            <ACCOUNT_NAME>SafetyCulture Pty Ltd</ACCOUNT_NAME>
+            <ADDR1>Level 8, 210 George Street</ADDR1>
+            <CITY>Sydney</CITY>
+            <ZIP>NSW 2000</ZIP>
+            <COUNTRY>Australia</COUNTRY>
+            <CONTACT_EMAIL>email@billingplatform.com</CONTACT_EMAIL>
+        </BILL_FROM>
+        <BALANCE_LABEL>Balance Due</BALANCE_LABEL>
+        <TOTAL_AMOUNT>$2,733.32</TOTAL_AMOUNT>
+        <TAX_TOTAL_AMOUNT>$273.34</TAX_TOTAL_AMOUNT>
+        <CREDIT_AMOUNT>$0.00</CREDIT_AMOUNT>
+        <GRAND_TOTAL_AMOUNT>$3,006.66</GRAND_TOTAL_AMOUNT>
+        <GRAND_TOTAL_AMOUNT_WITHOUT_FEE>$3,006.66</GRAND_TOTAL_AMOUNT_WITHOUT_FEE>
+        <BALANCE_DUE>$3,006.66</BALANCE_DUE>
+        <INVOICE_ID>504388</INVOICE_ID>
+        <PREVIOUS_BALANCE>$3,006.66</PREVIOUS_BALANCE>
+        <BALANCE_FORWARD>$0.00</BALANCE_FORWARD>
+        <CREDIT_CHARGES>$0.00</CREDIT_CHARGES>
+        <LAST_PAYMENT>$3,006.66</LAST_PAYMENT>
+        <REFUND_AMOUNT>$0.00</REFUND_AMOUNT>
+        <TOTAL_AND_CREDIT>$3,006.66</TOTAL_AND_CREDIT>
+        <GRAND_TOTAL_AMOUNT_WITHOUT_BALANCE>$0.00</GRAND_TOTAL_AMOUNT_WITHOUT_BALANCE>
+        <LATE_FEE_AMOUNT>$0.00</LATE_FEE_AMOUNT>
+        <DISCOUNT_AMOUNT>$0.00</DISCOUNT_AMOUNT>
+        <INVOICE_DATE>21/03/2025</INVOICE_DATE>
+        <FIRST_NEXT_MONTH>01/03/2024</FIRST_NEXT_MONTH>
+        <INVOICE_DATE_MONTH>01/03/2025</INVOICE_DATE_MONTH>
+        <INVOICE_DATE_MONTH_PREV>28/02/2025</INVOICE_DATE_MONTH_PREV>
+        <FROM_DATE>February 28, 2024</FROM_DATE>
+        <TO_DATE>February 29, 2024</TO_DATE>
+        <INVOICE_MESSAGE2></INVOICE_MESSAGE2>
+        <EBPP_URL><![CDATA[-1]]></EBPP_URL>
+        <BILLING_CYCLE_START_DATE>01/02/2024</BILLING_CYCLE_START_DATE>
+        <BILLING_CYCLE_END_DATE>29/02/2024</BILLING_CYCLE_END_DATE>
+        <BILL_CYC_END_NEXT_DAY>01/03/2024</BILL_CYC_END_NEXT_DAY>
+        <DUE_DATE>20/04/2025</DUE_DATE>
+        <INVOICE_CURRENCY>$</INVOICE_CURRENCY>
+        <INVOICE_LOGO>logo.jpg</INVOICE_LOGO>
+        <IMAGE_PATH>/u01/data/customer/cac_demo/invoice_templates/129</IMAGE_PATH>
+        <DATE_FORMAT>dd/mm/yyyy</DATE_FORMAT>
+    </INVOICE_HEADER>
+    <TAX_FEE_DETAIL>
+        <DETAIL_ITEM>
+            <LABEL>Tax</LABEL>
+            <AMOUNT>$273.34</AMOUNT>
+        </DETAIL_ITEM>
+    </TAX_FEE_DETAIL>
+    <TAX_FEE_SUMMARY>$273.34</TAX_FEE_SUMMARY>
+    <PAYMENTS></PAYMENTS>
+    <CREDITS></CREDITS>
+    <GROUP ID="1" label="Description">
+        <GROUP_LABEL>Description</GROUP_LABEL>
+        <GROUP_TYPE>LABEL</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW>
+            <COL width="7cm" headerAlign="start" headerFormat="text">Service Description</COL>
+            <COL width="10cm" headerAlign="end" headerFormat="currency">Total</COL>
+        </GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW>
+            <COL>Initiation Scheme Fee</COL>
+            <COL>$1,250.00</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>New PayID Registration Fee</COL>
+            <COL>$140.00</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>Payee Participant Transaction Scheme Fee</COL>
+            <COL>$1,017.44</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>Payer Participant Transaction Scheme Fee</COL>
+            <COL>$325.88</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_SUBTOTAL_ROW>
+            <COL></COL>
+            <COL>$2,733.32</COL>
+        </GROUP_SUBTOTAL_ROW>
+    </GROUP>
+    <GROUP ID="2" pageBreak="page">
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+    </GROUP>
+    <GROUP ID="3" label="  Initiation Scheme Fee ">
+        <GROUP_LABEL>Initiation Scheme Fee</GROUP_LABEL>
+        <GROUP_TYPE>DATA</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW></GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP ID="4" label="">
+            <GROUP_LABEL></GROUP_LABEL>
+            <GROUP_TYPE>LABEL</GROUP_TYPE>
+            <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+            <GROUP_HEADER_ROW>
+                <COL width="3cm" headerAlign="start" headerFormat="text">Fee Code</COL>
+                <COL width="2.5cm" headerAlign="start" headerFormat="text">Product ID</COL>
+                <COL width="8cm" headerAlign="start" headerFormat="text">Product</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Rate</COL>
+                <COL width="1.5cm" headerAlign="end" headerFormat="number">QTY</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Total</COL>
+            </GROUP_HEADER_ROW>
+            <GROUP_DATA_ROW>
+                <COL>mpis-eibm-s0i</COL>
+                <COL>PayTo</COL>
+                <COL>Initiation Scheme Fee - mpis - On Us Estimate Payment Initiations BBAN Mandate</COL>
+                <COL>$0.015</COL>
+                <COL>50000</COL>
+                <COL>$750.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>mpis-fipd-s0i</COL>
+                <COL>PayTo</COL>
+                <COL>Initiation Scheme Fee - mpis - Off Us Payment Initiations PayId Mandate (migrated)</COL>
+                <COL>$0.005</COL>
+                <COL>40000</COL>
+                <COL>$200.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>mpis-fipm-s0i</COL>
+                <COL>PayTo</COL>
+                <COL>Initiation Scheme Fee - mpis - Off Us Payment Initiations PayId Mandate</COL>
+                <COL>$0.015</COL>
+                <COL>20000</COL>
+                <COL>$300.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_SUBTOTAL_ROW>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL>$1,250.00</COL>
+            </GROUP_SUBTOTAL_ROW>
+        </GROUP>
+    </GROUP>
+    <GROUP ID="5" label="  New PayID Registration Fee ">
+        <GROUP_LABEL>New PayID Registration Fee</GROUP_LABEL>
+        <GROUP_TYPE>DATA</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW></GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP ID="6" label="">
+            <GROUP_LABEL></GROUP_LABEL>
+            <GROUP_TYPE>LABEL</GROUP_TYPE>
+            <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+            <GROUP_HEADER_ROW>
+                <COL width="3cm" headerAlign="start" headerFormat="text">Fee Code</COL>
+                <COL width="2.5cm" headerAlign="start" headerFormat="text">Product ID</COL>
+                <COL width="8cm" headerAlign="start" headerFormat="text">Product</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Rate</COL>
+                <COL width="1.5cm" headerAlign="end" headerFormat="number">QTY</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Total</COL>
+            </GROUP_HEADER_ROW>
+            <GROUP_SUBTOTAL_ROW>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL>$140.00</COL>
+            </GROUP_SUBTOTAL_ROW>
+            <GROUP_DATA_ROW>
+                <COL>acmt-faps-s0r</COL>
+                <COL></COL>
+                <COL>New PayId Registration Fee</COL>
+                <COL>$0.02</COL>
+                <COL>7000</COL>
+                <COL>$140.00</COL>
+            </GROUP_DATA_ROW>
+        </GROUP>
+    </GROUP>
+    <GROUP ID="7" label="  Payee Participant Transaction Scheme Fee ">
+        <GROUP_LABEL>Payee Participant Transaction Scheme Fee</GROUP_LABEL>
+        <GROUP_TYPE>DATA</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW></GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP ID="8" label="">
+            <GROUP_LABEL></GROUP_LABEL>
+            <GROUP_TYPE>LABEL</GROUP_TYPE>
+            <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+            <GROUP_HEADER_ROW>
+                <COL width="3cm" headerAlign="start" headerFormat="text">Fee Code</COL>
+                <COL width="2.5cm" headerAlign="start" headerFormat="text">Product ID</COL>
+                <COL width="8cm" headerAlign="start" headerFormat="text">Product</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Rate</COL>
+                <COL width="1.5cm" headerAlign="end" headerFormat="number">QTY</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Total</COL>
+            </GROUP_HEADER_ROW>
+            <GROUP_DATA_ROW>
+                <COL>catsct-npps-s0e</COL>
+                <COL>CATSCT</COL>
+                <COL>Payee Transaction Scheme Fee - catsct - On Us On Network Payments PayId Stand Alone</COL>
+                <COL>$0.01</COL>
+                <COL>100</COL>
+                <COL>$1.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>catsct-fpps-s0e</COL>
+                <COL>CATSCT</COL>
+                <COL>Payee Transaction Scheme Fee - catsct - Off Us Payments PayId Stand Alone</COL>
+                <COL>$0.02</COL>
+                <COL>2256</COL>
+                <COL>$45.12</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>catsct-pppm-s0e</COL>
+                <COL>CATSCT</COL>
+                <COL>Payee Transaction Scheme Fee - catsct - On Us Reported Payments PayId Mandate</COL>
+                <COL>$0.01</COL>
+                <COL>200</COL>
+                <COL>$2.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sctxbrdr-fpbs-s0e</COL>
+                <COL>International Payments</COL>
+                <COL>Payee Transaction Scheme Fee - sctxbrdr - Off Us Payments BBAN Stand Alone</COL>
+                <COL>$0.02</COL>
+                <COL>12541</COL>
+                <COL>$250.82</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sctxbrdr-epbs-s0e</COL>
+                <COL>International Payments</COL>
+                <COL>Payee Transaction Scheme Fee - sctxbrdr - On Us Estimate Payments BBAN Stand Alone</COL>
+                <COL>$0.00</COL>
+                <COL>570</COL>
+                <COL>$0.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-ppbs-s0e</COL>
+                <COL>OSKO</COL>
+                <COL>Payee Transaction Scheme Fee - x2p1 - On Us Reported Payments BBAN Stand Alone</COL>
+                <COL>$0.00</COL>
+                <COL>3000</COL>
+                <COL>$0.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-nppm-s0e</COL>
+                <COL>OSKO</COL>
+                <COL>Payee Transaction Scheme Fee - x2p1 - On Us On Network Payments PayId Mandate</COL>
+                <COL>$0.01</COL>
+                <COL>25000</COL>
+                <COL>$250.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-fpps-s0e</COL>
+                <COL>OSKO</COL>
+                <COL>Payee Transaction Scheme Fee - x2p1 - Off Us Payments PayId Stand Alone</COL>
+                <COL>$0.02</COL>
+                <COL>15000</COL>
+                <COL>$300.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-fppd-s0e</COL>
+                <COL>OSKO</COL>
+                <COL>Payee Transaction Scheme Fee - x2p1 - Off Us Payments PayId Mandate (migrated)</COL>
+                <COL>$0.00</COL>
+                <COL>20000</COL>
+                <COL>$0.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-epps-s0e</COL>
+                <COL>OSKO</COL>
+                <COL>Payee Transaction Scheme Fee - x2p1 - On Us Estimate Payments PayId Stand Alone</COL>
+                <COL>$0.01</COL>
+                <COL>5500</COL>
+                <COL>$55.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-ppbm-s0e</COL>
+                <COL>OSKO</COL>
+                <COL>Payee Transaction Scheme Fee - x2p1 - On Us Reported Payments BBAN Mandate</COL>
+                <COL>$0.01</COL>
+                <COL>11250</COL>
+                <COL>$112.50</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sct-npbs-s0e</COL>
+                <COL>SCT</COL>
+                <COL>Payee Transaction Scheme Fee - sct - On Us On Network Payments BBAN Stand Alone</COL>
+                <COL>$0.00</COL>
+                <COL>170</COL>
+                <COL>$0.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sct-fppm-s0e</COL>
+                <COL>SCT</COL>
+                <COL>Payee Transaction Scheme Fee - catsct - Off Us Payments PayId Mandate</COL>
+                <COL>$0.02</COL>
+                <COL>50</COL>
+                <COL>$1.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_SUBTOTAL_ROW>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL>$1,017.44</COL>
+            </GROUP_SUBTOTAL_ROW>
+        </GROUP>
+    </GROUP>
+    <GROUP ID="9" label="  Payer Participant Transaction Scheme Fee ">
+        <GROUP_LABEL>Payer Participant Transaction Scheme Fee</GROUP_LABEL>
+        <GROUP_TYPE>DATA</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW></GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP ID="10" label="">
+            <GROUP_LABEL></GROUP_LABEL>
+            <GROUP_TYPE>LABEL</GROUP_TYPE>
+            <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+            <GROUP_HEADER_ROW>
+                <COL width="3cm" headerAlign="start" headerFormat="text">Fee Code</COL>
+                <COL width="2.5cm" headerAlign="start" headerFormat="text">Product ID</COL>
+                <COL width="8cm" headerAlign="start" headerFormat="text">Product</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Rate</COL>
+                <COL width="1.5cm" headerAlign="end" headerFormat="number">QTY</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Total</COL>
+            </GROUP_HEADER_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sctxbrdr-ppps-s0r</COL>
+                <COL>International Payments</COL>
+                <COL>Payer Transaction Scheme Fee - sctxbrdr - On Us Reported Payments PayId Stand Alone</COL>
+                <COL>$0.0125</COL>
+                <COL>1500</COL>
+                <COL>$18.75</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sctxbrdr-epps-s0r</COL>
+                <COL>International Payments</COL>
+                <COL>Payer Transaction Scheme Fee - sctxbrdr - On Us Estimate Payments PayId Stand Alone</COL>
+                <COL>$0.0125</COL>
+                <COL>570</COL>
+                <COL>$7.13</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-npbm-sOr</COL>
+                <COL>OSKO</COL>
+                <COL>Payer Transaction Scheme Fee _ x2p1 - On Us On Network Payments BBAN Mandate</COL>
+                <COL>$0.00975</COL>
+                <COL>1000</COL>
+                <COL>$9.75</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-fppm-s0r</COL>
+                <COL>OSKO</COL>
+                <COL>Payer Transaction Scheme Fee - x2p1 - Off Us Payments PayId Mandate</COL>
+                <COL>$0.02</COL>
+                <COL>1000</COL>
+                <COL>$20.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-epps-s0r</COL>
+                <COL>OSKO</COL>
+                <COL>Payer Transaction Scheme Fee - x2p1 - On Us Estimate Payments PayId Stand Alone</COL>
+                <COL>$0.00975</COL>
+                <COL>20000</COL>
+                <COL>$195.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>x2p1-npbm-s0r</COL>
+                <COL>OSKO</COL>
+                <COL>Payer Transaction Scheme Fee - x2p1 - On Us On Network Payments BBAN Mandate</COL>
+                <COL>$0.01</COL>
+                <COL>5525</COL>
+                <COL>$55.25</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_DATA_ROW>
+                <COL>sct-fpps-s0r</COL>
+                <COL>SCT</COL>
+                <COL>Payer Transaction Scheme Fee - sct - Off Us Payments PayId Stand Alone</COL>
+                <COL>$0.02</COL>
+                <COL>1000</COL>
+                <COL>$20.00</COL>
+            </GROUP_DATA_ROW>
+            <GROUP_SUBTOTAL_ROW>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL></COL>
+                <COL>$325.88</COL>
+            </GROUP_SUBTOTAL_ROW>
+        </GROUP>
+    </GROUP>
+    <GROUP ID="11" label="   ">
+        <GROUP_LABEL></GROUP_LABEL>
+        <GROUP_TYPE>DATA</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW></GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW></GROUP_DATA_ROW>
+        <GROUP ID="12" label="">
+            <GROUP_LABEL></GROUP_LABEL>
+            <GROUP_TYPE>LABEL</GROUP_TYPE>
+            <GROUP_HIDE_FLAG>1</GROUP_HIDE_FLAG>
+            <GROUP_HEADER_ROW>
+                <COL width="3cm" headerAlign="start" headerFormat="text">Fee Code</COL>
+                <COL width="2.5cm" headerAlign="start" headerFormat="text">Product ID</COL>
+                <COL width="8cm" headerAlign="start" headerFormat="text">Product</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Rate</COL>
+                <COL width="1.5cm" headerAlign="end" headerFormat="number">QTY</COL>
+                <COL width="2cm" headerAlign="end" headerFormat="currency">Total</COL>
+            </GROUP_HEADER_ROW>
+        </GROUP>
+    </GROUP>
+</INVOICE>

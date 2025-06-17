@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "chalk": "^5.4.1",
+    "chokidar": "^4.0.3",
+    "saxon-js": "^2.7.0",
+    "xslt3": "^2.7.0"
+  },
+  "scripts": {
+    "generate": "node watch-and-generate.js",
+    "watch": "node watch-and-generate.js"
+  }
+}

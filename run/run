@@ -1,0 +1,18 @@
+#!/bin/bash
+
+data=${2:-"data.xml"}
+xsl=${3:-"schema.xsl"}
+
+echo "copying data: $1/$data to src"
+echo "copying xsl: $1/$xsl to src"
+
+cp ../$1/$data ./src
+cp ../$1/$xsl ./src
+
+docker run -v $(pwd):/src \
+	-v $(pwd)/fonts:/usr/share/fonts \
+	-v $(pwd)/config:/usr/local/fop/config \
+	-w /src -it --rm chrwahl/fop \
+	-c /usr/local/fop/config/config.xml \
+	-xml ./src/$data -xsl ./src/$xsl \
+	-pdf document.pdf

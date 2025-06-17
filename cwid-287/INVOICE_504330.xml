@@ -1,0 +1,521 @@
+<INVOICE>
+    <INVOICE_HEADER>
+        <BILL_TO>
+            <ATTN></ATTN>
+            <ADDR1>79 IVEAGH HSE</ADDR1>
+            <ADDR2>ST STEPHENS GREEN</ADDR2>
+            <COUNTRY>Ireland</COUNTRY>
+            <CITY>DUBLIN 2</CITY>
+            <STATE></STATE>
+            <ZIP>D02 VY53</ZIP>
+            <DISTRIBUTION_TYPE>MAIL</DISTRIBUTION_TYPE>
+            <BILL_TO>Accounts Payable</BILL_TO>
+            <GROUP_ID>64900</GROUP_ID>
+            <PAYMENT_TERMS>30</PAYMENT_TERMS>
+            <ACCOUNT>
+                <Id>70877</Id>
+                <AccountNumber>309058050</AccountNumber>
+                <Owner>Postal</Owner>
+                <InvoiceSplitCriteria>No Split</InvoiceSplitCriteria>
+                <OwningArea>15</OwningArea>
+                <ParentAccountId>1</ParentAccountId>
+                <Name>DEPT OF FOREIGN AFFAIRS</Name>
+                <Status>ACTIVE</Status>
+                <Created>2025-06-10T16:52:20.076269+00:00</Created>
+                <Updated>2025-06-15T20:45:34.157490+00:00</Updated>
+                <UpdatedUserId>156287</UpdatedUserId>
+                <CreatedUserId>156287</CreatedUserId>
+                <AccountTypeId>1</AccountTypeId>
+                <InvoiceAtThisLevel>1</InvoiceAtThisLevel>
+                <RateHierarchy>0</RateHierarchy>
+                <ActivityTimeZone>0</ActivityTimeZone>
+                <AllowPricingInDifferentCurrency>0</AllowPricingInDifferentCurrency>
+                <BillableAccountId>70877</BillableAccountId>
+                <BillableBillingProfileId>64900</BillableBillingProfileId>
+            </ACCOUNT>
+            <BILLING_PROFILE>
+                <WeeklyBillingDate>Monday - Sunday</WeeklyBillingDate>
+                <PeriodCutoffDate>2016-12-31T23:59:59.000000+00:00</PeriodCutoffDate>
+                <AccountBalanceNumber>€166.88</AccountBalanceNumber>
+                <DisablePDFGenerationOnInvoiceClose>0</DisablePDFGenerationOnInvoiceClose>
+                <SemiAnnualBillingMonth>June, December</SemiAnnualBillingMonth>
+                <IniBillingStartDate>2022-12-26</IniBillingStartDate>
+                <PaymentCreditAllocationMethod>Allocate To Invoice</PaymentCreditAllocationMethod>
+                <Address1>79 IVEAGH HSE</Address1>
+                <Address2>ST STEPHENS GREEN</Address2>
+                <Country>Ireland</Country>
+                <City>DUBLIN 2</City>
+                <Zip>D02 VY53</Zip>
+                <TimeZoneId>279</TimeZoneId>
+                <CurrencyCode>EUR</CurrencyCode>
+                <MonthlyBillingDate>31</MonthlyBillingDate>
+                <BillingMethod>MAIL</BillingMethod>
+                <BillingCycle>MONTHLY</BillingCycle>
+                <BillTo>Accounts Payable</BillTo>
+                <InvoiceTemplateId>132</InvoiceTemplateId>
+                <ManualCloseFlag>1</ManualCloseFlag>
+                <Id>64900</Id>
+                <AccountId>70877</AccountId>
+                <Status>ACTIVE</Status>
+                <Created>2025-06-10T16:52:20.091413+00:00</Created>
+                <AccountBalance>€166.88</AccountBalance>
+                <StatementApprovalFlag>0</StatementApprovalFlag>
+                <InvoiceApprovalFlag>1</InvoiceApprovalFlag>
+                <EventBasedBilling>0</EventBasedBilling>
+                <BillingEntity>DEPT OF FOREIGN AFFAIRS</BillingEntity>
+                <AchBankAcctType>Business Checking</AchBankAcctType>
+                <PaymentTermDays>30</PaymentTermDays>
+                <YearlyBillingMonth>December</YearlyBillingMonth>
+                <QuarterlyBillingMonth>March, June, September, December</QuarterlyBillingMonth>
+                <HostedPaymentPageExternalId>373b2e9a-43ae-fc04-e065-00c2688b21ad</HostedPaymentPageExternalId>
+                <CalendarType>4-5-4</CalendarType>
+                <CalendarClosingMonth>January</CalendarClosingMonth>
+                <CalendarClosingWeekday>Saturday</CalendarClosingWeekday>
+            </BILLING_PROFILE>
+        </BILL_TO>
+        <INVOICE>
+            <TotalAmount>€166.88</TotalAmount>
+            <CreditAmount>€0.00</CreditAmount>
+            <PaymentAmount>€0.00</PaymentAmount>
+            <GrandTotalAmount>€166.88</GrandTotalAmount>
+            <TaxTotalAmount>€0.00</TaxTotalAmount>
+            <BuyRateAmount>€0.00</BuyRateAmount>
+            <DueAmount>€166.88</DueAmount>
+            <PendingTaxRecords>0</PendingTaxRecords>
+            <MassUpdateError>0</MassUpdateError>
+            <AccountingPeriodId>64</AccountingPeriodId>
+            <Id>504403</Id>
+            <Created>2025-06-15T20:41:40.418137+00:00</Created>
+            <Status>CLOSED</Status>
+            <PaymentStatus>NOT PAID</PaymentStatus>
+            <ClosedDate>2025-06-16T12:11:40.268947+00:00</ClosedDate>
+            <BillingProfileId>64900</BillingProfileId>
+            <ActivityStartDate>2025-04-13T22:00:00.000000+00:00</ActivityStartDate>
+            <ActivityEndDate>2025-04-28T22:00:00.000000+00:00</ActivityEndDate>
+            <FileDirectory>2025/06/16</FileDirectory>
+            <FileName>invoice_504403.pdf</FileName>
+            <DueDate>2025-07-16T00:00:00.000000+00:00</DueDate>
+            <BillingProfileDetailId>70290</BillingProfileDetailId>
+            <ManualCloseApprovedFlag>2</ManualCloseApprovedFlag>
+            <BillingCycleStartDate>2025-04-01T00:00:00.000000+00:00</BillingCycleStartDate>
+            <BillingCycleEndDate>2025-04-30T23:59:59.000000+00:00</BillingCycleEndDate>
+            <BillableFlag>1</BillableFlag>
+            <AgingInterval>Current</AgingInterval>
+            <Updated>2025-06-16T12:11:40.270692+00:00</Updated>
+            <UpdatedUserId>156287</UpdatedUserId>
+            <CreatedUserId>0</CreatedUserId>
+            <ApprovalStatus>NOT APPROVED</ApprovalStatus>
+            <TotalAmountUnrounded>€166.88</TotalAmountUnrounded>
+            <TaxTotalAmountUnrounded>€0.00</TaxTotalAmountUnrounded>
+            <AvailableActions>reopen</AvailableActions>
+            <PendingActions>regeneratePdf</PendingActions>
+            <LastAction>1377128</LastAction>
+        </INVOICE>
+        <BILL_FROM>
+            <ACCOUNT_NAME>Credit Management</ACCOUNT_NAME>
+            <ADDR1>137 Rue du Faubourg Saint-Denis</ADDR1>
+            <CITY>Paris</CITY>
+            <ZIP>75010</ZIP>
+            <COUNTRY>France</COUNTRY>
+            <CONTACT_NUMBER>0800 - 0000 - 0000</CONTACT_NUMBER>
+            <CONTACT_EMAIL>email@billingplatform.com</CONTACT_EMAIL>
+        </BILL_FROM>
+        <BALANCE_LABEL>Balance Due</BALANCE_LABEL>
+        <TOTAL_AMOUNT>€166.88</TOTAL_AMOUNT>
+        <TAX_TOTAL_AMOUNT>€0.00</TAX_TOTAL_AMOUNT>
+        <CREDIT_AMOUNT>€0.00</CREDIT_AMOUNT>
+        <GRAND_TOTAL_AMOUNT>€166.88</GRAND_TOTAL_AMOUNT>
+        <GRAND_TOTAL_AMOUNT_WITHOUT_FEE>€166.88</GRAND_TOTAL_AMOUNT_WITHOUT_FEE>
+        <BALANCE_DUE>€166.88</BALANCE_DUE>
+        <INVOICE_ID>504403</INVOICE_ID>
+        <PREVIOUS_BALANCE>€0.00</PREVIOUS_BALANCE>
+        <BALANCE_FORWARD>€0.00</BALANCE_FORWARD>
+        <CREDIT_CHARGES>€0.00</CREDIT_CHARGES>
+        <LAST_PAYMENT>€0.00</LAST_PAYMENT>
+        <REFUND_AMOUNT>€0.00</REFUND_AMOUNT>
+        <TOTAL_AND_CREDIT>€166.88</TOTAL_AND_CREDIT>
+        <GRAND_TOTAL_AMOUNT_WITHOUT_BALANCE>€166.88</GRAND_TOTAL_AMOUNT_WITHOUT_BALANCE>
+        <LATE_FEE_AMOUNT>€0.00</LATE_FEE_AMOUNT>
+        <DISCOUNT_AMOUNT>€0.00</DISCOUNT_AMOUNT>
+        <INVOICE_DATE>16-JUNE -2025</INVOICE_DATE>
+        <FIRST_NEXT_MONTH>01-MAY -2025</FIRST_NEXT_MONTH>
+        <INVOICE_DATE_MONTH>01-JUNE -2025</INVOICE_DATE_MONTH>
+        <INVOICE_DATE_MONTH_PREV>31-MAY -2025</INVOICE_DATE_MONTH_PREV>
+        <FROM_DATE>April 13, 2025</FROM_DATE>
+        <TO_DATE>April 28, 2025</TO_DATE>
+        <INVOICE_MESSAGE>
+            <![CDATA[If you believe there is an error on your invoice please call the support number to speak to an adviser]]></INVOICE_MESSAGE>
+        <INVOICE_MESSAGE2></INVOICE_MESSAGE2>
+        <EBPP_URL><![CDATA[https://demo-telco.com/pay]]></EBPP_URL>
+        <BILLING_CYCLE_START_DATE>01-APRIL -2025</BILLING_CYCLE_START_DATE>
+        <BILLING_CYCLE_END_DATE>30-APRIL -2025</BILLING_CYCLE_END_DATE>
+        <BILL_CYC_END_NEXT_DAY>01-MAY -2025</BILL_CYC_END_NEXT_DAY>
+        <DUE_DATE>16-JULY -2025</DUE_DATE>
+        <INVOICE_CURRENCY>€</INVOICE_CURRENCY>
+        <INVOICE_LOGO></INVOICE_LOGO>
+        <IMAGE_PATH></IMAGE_PATH>
+        <DATE_FORMAT>DD-MONTH-YYYY</DATE_FORMAT>
+    </INVOICE_HEADER>
+    <TAX_FEE_DETAIL></TAX_FEE_DETAIL>
+    <TAX_FEE_SUMMARY>€0.00</TAX_FEE_SUMMARY>
+    <CREDIT_DETAIL></CREDIT_DETAIL>
+    <INVOICE_AGING>
+        <AGING>
+            <AGING_LABEL>Current</AGING_LABEL>
+            <AGING_AMOUNT>€166.88</AGING_AMOUNT>
+        </AGING>
+        <AGING>
+            <AGING_LABEL>1 - 30</AGING_LABEL>
+            <AGING_AMOUNT>€0.00</AGING_AMOUNT>
+        </AGING>
+        <AGING>
+            <AGING_LABEL>31 - 60</AGING_LABEL>
+            <AGING_AMOUNT>€0.00</AGING_AMOUNT>
+        </AGING>
+        <AGING>
+            <AGING_LABEL>61 - 90</AGING_LABEL>
+            <AGING_AMOUNT>€0.00</AGING_AMOUNT>
+        </AGING>
+        <AGING>
+            <AGING_LABEL>91 - 120</AGING_LABEL>
+            <AGING_AMOUNT>€0.00</AGING_AMOUNT>
+        </AGING>
+        <AGING>
+            <AGING_LABEL>Over 120</AGING_LABEL>
+            <AGING_AMOUNT>€0.00</AGING_AMOUNT>
+        </AGING>
+    </INVOICE_AGING>
+    <PAYMENTS></PAYMENTS>
+    <CREDITS></CREDITS>
+    <GROUP ID="1" label="Summary of Charges">
+        <GROUP_LABEL>Summary of Charges</GROUP_LABEL>
+        <GROUP_TYPE>LABEL</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW>
+            <COL width="9cm" headerAlign="start" headerFormat="text">Type of Service</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Number of Shipments</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Total Weight</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Number of Items</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Standard Shipping Charge</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Total Extra Charges</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">VAT</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Total Amount Inc VAT</COL>
+        </GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW>
+            <COL>EXPRESS DOMESTIC</COL>
+            <COL>1</COL>
+            <COL>.5</COL>
+            <COL>1</COL>
+            <COL>4.99</COL>
+            <COL>1.01</COL>
+            <COL>1.15</COL>
+            <COL>6.14</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>EXPRESS WORLDWIDE eu</COL>
+            <COL>2</COL>
+            <COL>4</COL>
+            <COL>2</COL>
+            <COL>35.51</COL>
+            <COL>12.34</COL>
+            <COL>8.17</COL>
+            <COL>43.68</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>EXPRESS WORLDWIDE non-doc</COL>
+            <COL>1</COL>
+            <COL>25</COL>
+            <COL>1</COL>
+            <COL>117.06</COL>
+            <COL>30</COL>
+            <COL>0</COL>
+            <COL>117.06</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_SUBTOTAL_ROW>
+            <COL></COL>
+            <COL>4</COL>
+            <COL>29.5</COL>
+            <COL>4</COL>
+            <COL>157.56</COL>
+            <COL>43.35</COL>
+            <COL>9.32</COL>
+            <COL>166.88</COL>
+        </GROUP_SUBTOTAL_ROW>
+    </GROUP>
+    <GROUP ID="2" label="Analysis of Extras 1">
+        <GROUP_LABEL>Analysis of Extras 1</GROUP_LABEL>
+        <GROUP_TYPE>LABEL</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW>
+            <COL width="9cm" headerAlign="start" headerFormat="text">Extra Charge Description</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Extra Charge</COL>
+        </GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW>
+            <COL>Fuel Surcharge</COL>
+            <COL>13.35</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>RESTRICTED DESTINATION</COL>
+            <COL>30</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_SUBTOTAL_ROW>
+            <COL></COL>
+            <COL>43.35</COL>
+        </GROUP_SUBTOTAL_ROW>
+    </GROUP>
+    <GROUP ID="3" label="Analysis of Extras 2">
+        <GROUP_LABEL>Analysis of Extras 2</GROUP_LABEL>
+        <GROUP_TYPE>LABEL</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW>
+            <COL width="9cm" headerAlign="start" headerFormat="text">Extra Charge Description</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Extra Charge</COL>
+        </GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW>
+            <COL>GoGreen Plus - Carbon Reduced</COL>
+            <COL>.45</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL></COL>
+            <COL></COL>
+        </GROUP_DATA_ROW>
+        <GROUP_SUBTOTAL_ROW>
+            <COL></COL>
+            <COL>.45</COL>
+        </GROUP_SUBTOTAL_ROW>
+    </GROUP>
+    <GROUP ID="4" label="Analysis of VAT">
+        <GROUP_LABEL>Analysis of VAT</GROUP_LABEL>
+        <GROUP_TYPE>LABEL</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW>
+            <COL width="5cm" headerAlign="start" headerFormat="text">Code</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Rate</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Taxable Total</COL>
+            <COL width="2cm" headerAlign="end" headerFormat="number">Taxable VAT</COL>
+        </GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW>
+            <COL>A</COL>
+            <COL>23</COL>
+            <COL>40.5</COL>
+            <COL>9.32</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>X</COL>
+            <COL>0</COL>
+            <COL>117.06</COL>
+            <COL>0</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_SUBTOTAL_ROW>
+            <COL></COL>
+            <COL></COL>
+            <COL>157.56</COL>
+            <COL>9.32</COL>
+        </GROUP_SUBTOTAL_ROW>
+    </GROUP>
+    <GROUP ID="5" label="Shipment delivery">
+        <GROUP_LABEL>Shipment delivery</GROUP_LABEL>
+        <GROUP_TYPE>LABEL</GROUP_TYPE>
+        <GROUP_HIDE_FLAG>0</GROUP_HIDE_FLAG>
+        <GROUP_HEADER_ROW>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Air Waybill Number</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shippers Reference</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipment Date</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Org</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Org Country</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Name</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Contact</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Address 1</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Address 2</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Address 3</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper City</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Province</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Country</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Shipper Postcode</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Destination</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Destination Country</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Name</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Contact</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Address 1</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Address 2</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Address 3</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver City</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Province</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Country</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Receiver Postcode</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Type of Service</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">Weight</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">Weight UOM</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">Number of Items</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">Standard Charge</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">ExtraCharge1 Name</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">ExtraCharge1 Charge</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">ExtraCharge1 Taxcode</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">ExtraCharge1 Total</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">ExtraCharge2 Name</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">ExtraCharge2 Charge</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="text">ExtraCharge2 Taxcode</COL>
+            <COL width="1cm" headerAlign="start" headerFormat="number">ExtraCharge2 Total</COL>
+        </GROUP_HEADER_ROW>
+        <GROUP_DATA_ROW>
+            <COL>9693925850</COL>
+            <COL>DOCS</COL>
+            <COL>29/04/2025</COL>
+            <COL>DUB</COL>
+            <COL>IE</COL>
+            <COL>DEPARTMENT OF FOREIGN AFFAIRS</COL>
+            <COL>Conact 6</COL>
+            <COL>30 EARLSFORT TERRACE</COL>
+            <COL>STEPHENS GREEN</COL>
+            <COL>DUBLIN</COL>
+            <COL>DUBLIN</COL>
+            <COL></COL>
+            <COL>IE</COL>
+            <COL>D02 VY53</COL>
+            <COL>ORK</COL>
+            <COL>IE</COL>
+            <COL>PASSPORT OFFICE CORK</COL>
+            <COL>Passport office</COL>
+            <COL>SOUTH MALL</COL>
+            <COL>SOUTH MALL</COL>
+            <COL>CORK CITY</COL>
+            <COL>CORK CITY</COL>
+            <COL></COL>
+            <COL>IE</COL>
+            <COL>T12 CCN3</COL>
+            <COL>EXPRESS DOMESTIC</COL>
+            <COL>0.5</COL>
+            <COL>K</COL>
+            <COL>1</COL>
+            <COL>4.99</COL>
+            <COL>Fuel Surcharge</COL>
+            <COL>0.82</COL>
+            <COL>A</COL>
+            <COL>1.01</COL>
+            <COL></COL>
+            <COL></COL>
+            <COL></COL>
+            <COL></COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>9420650466</COL>
+            <COL>Diplomatic Mail</COL>
+            <COL>15/04/2025</COL>
+            <COL>DUB</COL>
+            <COL>IE</COL>
+            <COL>DEPARTMENT OF FOREIGN AFFAIRS</COL>
+            <COL>Contact 3</COL>
+            <COL>30 EARLSFORT TERRACE</COL>
+            <COL>STEPHENS GREEN DUBLIN</COL>
+            <COL>DUBLIN</COL>
+            <COL>DUBLIN</COL>
+            <COL>Dublin</COL>
+            <COL>IE</COL>
+            <COL>D02 VY53</COL>
+            <COL>THR</COL>
+            <COL>IR</COL>
+            <COL>EMBASSY OF IRELAND</COL>
+            <COL>Contact 70</COL>
+            <COL>TEHRAN POSTAL CODE: 1144643416.</COL>
+            <COL>NO, 324, FERDOWSI AVE, TEHRAN POSTA IRAN</COL>
+            <COL>TEHRAN</COL>
+            <COL>TEHRAN</COL>
+            <COL>Iran</COL>
+            <COL>IR</COL>
+            <COL>324</COL>
+            <COL>EXPRESS WORLDWIDE non-doc</COL>
+            <COL>25</COL>
+            <COL>K</COL>
+            <COL>1</COL>
+            <COL>117.06</COL>
+            <COL>RESTRICTED DESTINATION</COL>
+            <COL>30</COL>
+            <COL>X</COL>
+            <COL>30</COL>
+            <COL></COL>
+            <COL></COL>
+            <COL></COL>
+            <COL></COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>9620704133</COL>
+            <COL>Diplomatic mail</COL>
+            <COL>14/04/2025</COL>
+            <COL>DUB</COL>
+            <COL>IE</COL>
+            <COL>DEPARTMENT OF FOREIGN AFFAIRS</COL>
+            <COL>Contact 4</COL>
+            <COL>30 EARLSFORT TERRACE</COL>
+            <COL>STEPHENS GREEN</COL>
+            <COL>DUBLIN</COL>
+            <COL>DUBLIN</COL>
+            <COL></COL>
+            <COL>IE</COL>
+            <COL>D02 VY53</COL>
+            <COL>ROM</COL>
+            <COL>IT</COL>
+            <COL>EMBASSY OF IRELAND ROME</COL>
+            <COL>Embassy of Ireland Rome</COL>
+            <COL>VILLA SPADA</COL>
+            <COL>VIA GIACOMO MEDICI 1</COL>
+            <COL>ROME</COL>
+            <COL>ROME</COL>
+            <COL></COL>
+            <COL>IT</COL>
+            <COL>153</COL>
+            <COL>EXPRESS WORLDWIDE eu</COL>
+            <COL>3.5</COL>
+            <COL>K</COL>
+            <COL>1</COL>
+            <COL>24</COL>
+            <COL>Fuel Surcharge</COL>
+            <COL>6.78</COL>
+            <COL>A</COL>
+            <COL>8.34</COL>
+            <COL>GoGreen Plus - Carbon Reduced</COL>
+            <COL>0.32</COL>
+            <COL>A</COL>
+            <COL>0.39</COL>
+        </GROUP_DATA_ROW>
+        <GROUP_DATA_ROW>
+            <COL>9620714530</COL>
+            <COL>Diplomatic mail</COL>
+            <COL>14/04/2025</COL>
+            <COL>DUB</COL>
+            <COL>IE</COL>
+            <COL>DEPARTMENT OF FOREIGN AFFAIRS</COL>
+            <COL>Contact 5</COL>
+            <COL>30 EARLSFORT TERRACE</COL>
+            <COL>STEPHENS GREEN</COL>
+            <COL>DUBLIN</COL>
+            <COL>DUBLIN</COL>
+            <COL></COL>
+            <COL>IE</COL>
+            <COL>D02 VY53</COL>
+            <COL>LYS</COL>
+            <COL>FR</COL>
+            <COL>CONSULATE OF IRELAND</COL>
+            <COL>Consulate of Ireland</COL>
+            <COL>23 RUE CREPET</COL>
+            <COL>AUVERGNE-RHONE-ALPES AUVERGNE-RHONE-ALPES</COL>
+            <COL>LYON</COL>
+            <COL>LYON</COL>
+            <COL>Auvergne-Rhone-Alpes</COL>
+            <COL>FR</COL>
+            <COL>69007</COL>
+            <COL>EXPRESS WORLDWIDE eu</COL>
+            <COL>0.5</COL>
+            <COL>K</COL>
+            <COL>1</COL>
+            <COL>11.51</COL>
+            <COL>Fuel Surcharge</COL>
+            <COL>3.25</COL>
+            <COL>A</COL>
+            <COL>4</COL>
+            <COL>GoGreen Plus - Carbon Reduced</COL>
+            <COL>0.05</COL>
+            <COL>A</COL>
+            <COL>0.06</COL>
+        </GROUP_DATA_ROW>
+    </GROUP>
+</INVOICE>

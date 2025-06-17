@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCTI>
+    <Header>
+        <Title>RECIPIENT CREATED TAX INVOICE</Title>
+        <Attention>Jane Callander</Attention>
+        <Email>Jane.Callander@bank.com</Email>
+        <Recipient>
+            <Name>Banking Group Limited</Name>
+            <ABN>11 005 357 522</ABN>
+            <Address>833 Collins Street</Address>
+            <City>Docklands 3008, VIC</City>
+        </Recipient>
+        <Issuer>
+            <Name>ConnectID Pty Ltd</Name>
+            <ABN>80 648 970 101</ABN>
+            <Email>finance@auspayplus.com.au</Email>
+            <Address>Level 1, 255 George Street</Address>
+            <City>Sydney, NSW 2001</City>
+        </Issuer>
+        <Date>05/07/2024</Date>
+        <BillingPeriod>Apr–Jun 2024</BillingPeriod>
+        <DocumentNumber>253</DocumentNumber>
+        <PaymentTerms>Payment will be made within 30 days from date of this RCTI</PaymentTerms>
+        <RemittanceEmail>finance@auspayplus.com.au</RemittanceEmail>
+    </Header>
+
+    <Summary>
+        <Description>ConnectID services provided</Description>
+        <RevenueShareExGST>41.52</RevenueShareExGST>
+        <GST>4.15</GST>
+        <RevenueShareIncGST>45.67</RevenueShareIncGST>
+        <SummaryTable>
+            <Category name="Relying Parties">
+                <Month name="April">0</Month>
+                <Month name="May">0</Month>
+                <Month name="June">93</Month>
+                <Total>93</Total>
+            </Category>
+            <Category name="ConnectID">
+                <Month name="April">0</Month>
+                <Month name="May">4</Month>
+                <Month name="June">100</Month>
+                <Total>104</Total>
+            </Category>
+        </SummaryTable>
+    </Summary>
+
+    <Companies>
+        <Company name="ABC Pty Ltd">
+            <Product id="01" name="Standard claims">
+                <Item code="ADDRESS" description="Address attributes" quantity="2" revenue="0.20"/>
+                <Item code="DOB"     description="Date of birth"      quantity="2" revenue="1.20"/>
+                <Item code="EMAIL"   description="Email address"       quantity="2" revenue="0.20"/>
+                <Item code="IPL1_PLUS" description="Verified Identity (IPL1+)" quantity="2" revenue="1.00"/>
+                <Item code="NAME"    description="Name attributes"     quantity="2" revenue="0.40"/>
+                <Item code="PHONE"   description="Phone number"        quantity="2" revenue="0.20"/>
+            </Product>
+            <TotalTransactions>2</TotalTransactions>
+        </Company>
+        <!-- … Guardian, Proffer, Reference … -->
+    </Companies>
+
+    <Simulator>
+        <Company>ConnectID Pty Ltd – Simulator</Company>
+        <Month name="May 2024">
+            <Product id="01" name="Standard claims">
+                <Item code="ADDRESS" description="Address attributes" quantity="2"/>
+                <!-- … -->
+            </Product>
+            <Product id="10" name="Extended claims">
+                <Item code="OVER18" description="18+ verification" quantity="4"/>
+                <!-- … -->
+            </Product>
+        </Month>
+        <Month name="June 2024">
+            <Product id="01" name="Standard claims">
+                <Item code="ADDRESS" description="Address attributes" quantity="55"/>
+                <!-- … -->
+            </Product>
+            <Product id="10" name="Extended claims">
+                <Item code="OVER18" description="18+ verification" quantity="23"/>
+                <!-- … -->
+            </Product>
+        </Month>
+        <TotalTransactions>104</TotalTransactions>
+    </Simulator>
+
+    <OverallSummary>
+        <TotalRevenue>69.20</TotalRevenue>
+        <SharePercentage>60</SharePercentage>
+        <YourRevenueShare>41.52</YourRevenueShare>
+        <TotalTransactionsServed>93</TotalTransactionsServed>
+    </OverallSummary>
+
+    <Footer>
+        <Brand>Australian Payments Plus</Brand>
+        <DocumentType>RCTI</DocumentType>
+        <TotalPages>4</TotalPages>
+    </Footer>
+</RCTI>
